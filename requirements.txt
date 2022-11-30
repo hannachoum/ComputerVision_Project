@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+numpy
+tqdm
+numba
+pillow
+selenium
+scikit-image
