@@ -1,5 +1,8 @@
 # Generation of indoor images with simple GAN
 
+
+![Generation example with one GPU](Gan_result_4.jpg)
+
 ## Prerequisites
 - Python 3.x
 - PyTorch
