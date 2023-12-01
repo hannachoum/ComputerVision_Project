@@ -1,6 +1,16 @@
-# ComputerVision_Project
+# Generation of indoor images with simple GAN
 
-The goal of this project is to encode the harry potter invisibility cloak by using computer vision tools
+## Prerequisites
+- Python 3.x
+- PyTorch
+- Jupyter Notebook
 
-# Titre Schedule 
-16/11/2022 : First meeting | Folder organisation | Images Extraction from Video 
+## Installation
+Clone the repository and install the necessary dependencies.
+```
+git clone https://github.com/yourusername/Google_Scrapping.git
+pip install -r requirements.txt
+```
+
+## License
+This project is open-sourced under the MIT License.
