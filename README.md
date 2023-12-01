@@ -1,7 +1,10 @@
 # Generation of indoor images with simple GAN
 
 
-![Generation example with one GPU](Gan_result_4.jpg)
+<img src="Gan_result_4.jpg" alt="Generation example with one GPU" width="300"/>
+
+#Data 
+All the umages for the training were scrapped from google image (cf Google_scrapping repo)
 
 ## Prerequisites
 - Python 3.x
